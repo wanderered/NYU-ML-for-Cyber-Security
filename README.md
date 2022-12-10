@@ -23,3 +23,7 @@
 ## 2.Data
  1. Download the validation and test datasets from [here](https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq?usp=sharing) and store them under `data/` directory.
  2. Replace file names according to your own directory. 
+
+## 3.Report of this lab
+
+The report of this lab is in the lab2 folder, MLCYBER Assignment2.pdf.
